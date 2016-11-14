@@ -1,0 +1,10 @@
+The second folder (The 3n + 1 problem) is a project from Code Blocks IDE.
+
+To execute the code:
+
+   -Do the download of this folder and open with your Code Blocks IDE;
+   -Or copy the code on 'The 3n + 1 problem/man.c' arquive and run on
+     another IDE program (compiler for ANSI C);
+
+The program already is working, but I'll change the code for get a less
+run time.
